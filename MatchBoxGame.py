@@ -1,3 +1,5 @@
+''' Briggs '''
+
 invalidResponse = True
 while invalidResponse:
     player = int(input("Which player wants to start? "))

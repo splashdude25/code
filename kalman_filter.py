@@ -1,3 +1,6 @@
+''' Briggs '''
+
+
 from numpy import dot
 from numpy.matlib import randn
 
